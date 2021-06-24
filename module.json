@@ -1,7 +1,7 @@
 {
   "name": "call-of-cthulhu-7th-babele-zh-tw",
   "title": "Call of Cthulhu 7th Babele 正體中文版",
-  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡,瘋狂表等",
+  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡等",
   "version": "0.60.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
@@ -25,7 +25,7 @@
   ],
   "packs": [
     {
-      "label": "中文示範角色卡",
+      "label": "中文示範角色卡 - 按右鍵導入",
       "entity": "Actor",
       "name": "examples",
       "path": "./packs/examples_cht.db",

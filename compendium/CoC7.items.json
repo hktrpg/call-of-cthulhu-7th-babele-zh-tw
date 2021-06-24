@@ -1,14 +1,14 @@
 {
-	"label": "示例對象",
+	"label": "示範對象",
 	"entries": [
 		{
 			"id": "1920's Setup Example",
-			"name": "1920 配置示例",
+			"name": "1920 配置示範",
 			"description": "<p>1920 角色的默認設置.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Archetype Example",
-			"name": "原型示例",
+			"name": "原型示範",
 			"description": null
 		},
 		{
@@ -23,7 +23,7 @@
 		},
 		{
 			"id": "Occupation Example",
-			"name": "職業示例",
+			"name": "職業示範",
 			"description": null
 		},
 		{

@@ -4,7 +4,7 @@ Hooks.once('init', () => {
 
 		Babele.get().register({
 			module: 'call-of-cthulhu-7th-babele-zh-tw',
-			lang: 'zh-tw',
+			lang: 'zh-TW',
 			dir: 'compendium'
 		});
 

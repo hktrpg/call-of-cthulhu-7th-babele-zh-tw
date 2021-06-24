@@ -15,7 +15,7 @@
     {
       "name": "babele",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "1.20"
+      "version": "2.0.5"
     },
     {
       "name": "CoC7",
@@ -26,14 +26,14 @@
   "packs": [],
   "languages": [
     {
-      "lang": "zh-tw",
+      "lang": "zh-TW",
       "name": "正體中文",
       "path": "lang/zh-tw.json"
     }
   ],
   "system": "CoC7",
   "systemVersion": "0.6.0",
-  "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-zh-tw",
+  "url": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw",
   "manifest": "https://raw.githubusercontent.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/master/module.json",
   "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/archive/master.zip"
 }

@@ -23,7 +23,15 @@
       "version": "0.6.0"
     }
   ],
-  "packs": [],
+  "packs": [
+    {
+      "label": "示範角色卡",
+      "entity": "Actor",
+      "name": "examples",
+      "path": "./packs/examples_cht.db",
+      "system": "CoC7"
+    }
+  ],
   "languages": [
     {
       "lang": "zh-TW",

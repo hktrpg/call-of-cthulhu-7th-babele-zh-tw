@@ -363,7 +363,7 @@
     "CoC7.SpendPoints": "分配屬性",
     "CoC7.RollCharac": "投擲 屬性值",
     "CoC7.SelectCoreCharac": "選擇核心屬性",
-    "CoC7.SkillSpecSelectTitle": "選擇/新增 專業化技能  {specialization} ",
+    "CoC7.SkillSpecSelectTitle": "選擇/新增 專業技能  {specialization} ",
     "CoC7.SkillSelectBase": "選擇技能的基礎值 {name}",
     "CoC7.SelectSkill": "選擇一個現有的技能",
     "CoC7.CreateNewSkill": "創造一項新技能",

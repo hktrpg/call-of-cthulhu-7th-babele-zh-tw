@@ -598,7 +598,7 @@
     "CoC7.XPGainEnabled": "角色現在可以獲得成長標記",
     "CoC7.XPGainDisabled": "角色現在無法獲得成長標記",
     "CoC7.startRest": "開始休息",
-    "CoC7.dreaming": "調查員在夢景中等待",
+    "CoC7.dreaming": "調查員在夢境中等待",
     "CoC7.healthRecovered": "恢復 1 點生命值",
     "CoC7.pulpHealthRecovered": "恢復 {number} 點生命值",
     "CoC7.dailySanLossRestarted": "每日瘋狂臨界點重設",

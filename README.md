@@ -2,7 +2,7 @@
 
 ## 描述  
 
-* Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能等.
+* Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能，要求擲骰等.
 
 安裝  
 
@@ -26,7 +26,7 @@
 * La traducción es obra de *José E. Lozano* (Viriato139ac) y *Gerbek*.
 * Se ha usado como plantilla la traducción de *Dungeon World* de *patoarayas*.
 * *Babele* es un módulo de *Simone Ricciardi*.
-* *Gorden*
+* *Gorden* 重寫了要求擲骰表
 
 ## 版本
 

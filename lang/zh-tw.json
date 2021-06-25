@@ -458,7 +458,7 @@
     "CoC7.RevealCheck": "顯示檢定",
     "CoC7.IncreaseSuccessLevel": "提升成功等級",
     "CoC7.BonusSelectionWindowNamed": "選擇 {name}檢定的調整值",
-    "CoC7.Value": "價格",
+    "CoC7.Value": "屬性%",
     "CoC7.WeaponProperyManeuver": "戰技",
     "CoC7.CthulhuMythosName": "克蘇魯神話",
     "CoC7.SANCheckTitle": "損失SAN: {name} ({sanMin}/{sanMax})",

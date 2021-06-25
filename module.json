@@ -1,8 +1,8 @@
 {
   "name": "call-of-cthulhu-7th-babele-zh-tw",
   "title": "Call of Cthulhu 7th Babele 正體中文版",
-  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括角色卡等",
-  "version": "0.60.1",
+  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能等",
+  "version": "0.6.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
   "author": "Gorden, Sad",
@@ -20,7 +20,7 @@
     {
       "name": "CoC7",
       "type": "system",
-      "version": "0.6.0"
+      "version": "0.6.1"
     }
   ],
   "packs": [

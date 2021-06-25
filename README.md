@@ -1,10 +1,10 @@
 # Call of Cthulhu 7th Babele 正體中文版
 
-## Description - Descripción  
+## 描述  
 
 * Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能等.
 
-## Installation - Instalación  
+安裝  
 
 * 從Foundry的遊戲系統管理頁面 安裝/更新 _Call of Cthulhu 7th edition_ 遊戲系統, by HavlockV.
 [Module Url](https://foundryvtt.com/packages/CoC7/)
@@ -28,8 +28,8 @@
 * *Babele* es un módulo de *Simone Ricciardi*.
 * *Gorden*
 
-## Versiones
+## 版本
 
-version 0.6.1 :
+版本 0.6.1 :
 
-* Updated to HavlockV/CoC7-FoundryVTT 0.6.1
+* 支援 HavlockV/CoC7-FoundryVTT 0.6.1

@@ -19,7 +19,7 @@
 ----
 ## 留言 
 
-* 非常歡喜任何建議或留言。 請使用Github issue 功能。
+* 非常歡迎任何建議或留言。 請使用Github issue 功能。
 
 ## Credit  
 

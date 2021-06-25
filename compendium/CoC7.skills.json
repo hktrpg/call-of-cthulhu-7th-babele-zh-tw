@@ -1,5 +1,5 @@
 {
-	"label": "Färdigheter",
+	"label": "技能",
 	"entries": [
 		{
 			"id": "Accounting",
@@ -349,6 +349,46 @@
 		{
 			"id": "Rifle/Shotgun",
 			"name": "步槍／霰彈槍",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Shotgun",
+			"name": "霰彈槍",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Rifle",
+			"name": "步槍",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Be a pain",
+			"name": "遭受痛苦吧",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Rifle",
+			"name": "步槍",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Rifle",
+			"name": "步槍",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Rifle",
+			"name": "步槍",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Rifle",
+			"name": "步槍",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Rifle",
+			"name": "步槍",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{

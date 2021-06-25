@@ -417,6 +417,11 @@
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{
+			"id": "Fists",
+			"name": "空手",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
 			"id": "My test weapon",
 			"name": "測試用武器",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"

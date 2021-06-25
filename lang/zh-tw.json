@@ -688,7 +688,7 @@
     "SETTINGS.LetKeeperDecide": "讓Kp決定",
     "SETTINGS.DisplayResultType": "顯示骰子成功程度結果(文字)",
     "SETTINGS.DisplayCheckSuccessLevel": "顯示骰子成功程度結果(星星)",
-    "SETTINGS.PlayerUnlockSheetMode": "玩家可能解鎖角色卡",
+    "SETTINGS.PlayerUnlockSheetMode": "玩家可以解鎖角色卡",
     "SETTINGS.AlwaysEditable": "永遠",
     "SETTINGS.CreationModeOnly": "只限創角模式",
     "SETTINGS.NeverEditable": "永不 (Kp only)",

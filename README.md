@@ -16,6 +16,8 @@
 [Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-zh-tw/)
 * 在遊戲世界 ->  _遊戲設定/管理Mod_ 啓用 Babele 和 Call of Cthulhu 7th Babele 正體中文版.
 * 在 _遊戲設定/設定_ 把語言轉成正體中文.
+* 在合集包/中文示範角色卡 按右鍵/導入條目
+* KP在畫面左邊的KP工具中打開創角模式，即可以在角色目錄中選取剛新增的角色SAD，進行創角。
 ----
 ## 留言 
 

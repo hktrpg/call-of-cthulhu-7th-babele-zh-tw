@@ -671,5 +671,15 @@
     "SETTINGS.OneBlockBackStory": "一段式背景故事",
     "SETTINGS.OneBlockBackStoryHint": "把背景故事轉換成一個編輯區，但你可以控制格式和增加連結。",
     "CoC7.MessageBoutOfMadnessTableNotFound": "沒有找到瘋狂發作表的結果，請檢查是否已經新增該擲骰表",
-    "CoC7.MessageBoutOfMadnessItemNotFound": "沒有找到瘋狂發作表的結果，請檢查是否已經新增該狀態"
+    "CoC7.MessageBoutOfMadnessItemNotFound": "沒有找到瘋狂發作表的結果，請檢查是否已經新增該狀態",
+    "CoC7.PlayerName": "玩家",
+    "CoC7.ImportedUnnamedCharacter": "已匯入無名的角色",
+    "CoC7.CreatedImportedCharactersFolder": "已新增資料夾 '已匯入角色''",
+    "CoC7.HowToTranslateTitle": "怎樣進行翻譯?",
+    "CoC7.HowToTranslateWarning": "不要安裝任何你不能信任的Mod.",
+    "CoC7.HowToTranslateInstallBabele": "在FVTT 的MOD管理器 安裝/更新 Babele.",
+    "CoC7.HowToTranslateInstallTranslation": "在FVTT 的MOD管理器 安裝/更新翻譯.",
+    "CoC7.HowToTranslateEnableTranslation": "在遊戲世界中, 設定/Mod管理 中啓動 Babele 和翻譯.",
+    "CoC7.HowToTranslateNoTranslation": "現有的翻譯Mod中提供了新增翻譯語言的說明.",
+    "SETTINGS.displayPlayerNameOnSheet": "在角色卡上顯示玩家名稱"
 }

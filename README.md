@@ -8,11 +8,11 @@
 
 * 從Foundry的遊戲系統管理頁面 安裝/更新 _Call of Cthulhu 7th edition_ 遊戲系統, by HavlockV.
 [Module Url](https://foundryvtt.com/packages/CoC7/)
-* 從Foundry的Mod管理頁面 安裝/更新 _Babele_ Mod.
+* 從Foundry的Mod管理頁面 安裝/更新 _Babele_ .
 [Module Url](https://foundryvtt.com/packages/babele/)
-* (可選) 從Foundry的Mod管理頁面 安裝/更新 Foundry VTT 核心系統正體中文化 Mod :
+* (可選) 從Foundry的Mod管理頁面 安裝/更新 Foundry VTT Translation: 正體中文 [Core] :
 [Module Url](https://foundryvtt.com/packages/foundry_zh-tw)
-* 從Foundry的Mod管理頁面 安裝/更新 _Call of Cthulhu 7th Babele 正體中文版_ Mod:
+* 從Foundry的Mod管理頁面 安裝/更新 _Call of Cthulhu 7th Babele 正體中文版_ :
 [Module Url](https://foundryvtt.com/packages/call-of-cthulhu-7th-babele-zh-tw/)
 * 在遊戲世界 ->  _遊戲設定/管理Mod_ 啓用 Babele 和 Call of Cthulhu 7th Babele 正體中文版.
 * 在 _遊戲設定/設定_ 把語言轉成正體中文.

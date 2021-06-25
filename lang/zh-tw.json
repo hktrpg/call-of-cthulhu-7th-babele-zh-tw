@@ -693,7 +693,7 @@
     "SETTINGS.CreationModeOnly": "只限創角模式",
     "SETTINGS.NeverEditable": "永不 (Kp only)",
     "SETTINGS.AllowFlatDiceModifier": "骰子結果調整",
-    "SETTINGS.AllowFlatDiceModifierHint": "允許調整骰子結果值，例如擲出30，可添加值-20，使結果變成10。",
+    "SETTINGS.AllowFlatDiceModifierHint": "允許調整骰子結果值，例如擲出30，可添加調整值-20，使結果變成10。",
     "SETTINGS.AllowFlatThresholdModifier": "技能調整值",
     "SETTINGS.AllowFlatThresholdModifierHint": "允許調整成功等級 (-1大失敗，0失敗，1一般成功，2困難成功，3極限成功，4大成功）",
     "SETTINGS.OpposedRollTieBreaker": "對抗骰使用Viriato139ac，阻止平手",

@@ -1,5 +1,5 @@
 {
-	"label": "示範角色卡",
+	"label": "角色卡範例",
 	"entries": [
 		{
 			"id": "1920 Character",
@@ -1642,7 +1642,7 @@
 		},
 		{
 			"id": "Creature example",
-			"name": "示範生物",
+			"name": "生物範例",
 			"items": [
 				{
 					"_id": "dLLdlRaQmkE9QYUJ",
@@ -1676,7 +1676,7 @@
 				{
 					"_id": "H30y50QJUdx9Xjii",
 					"flags": {},
-					"name": "致命的利爪",
+					"name": "死亡之爪",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2359,7 +2359,9 @@
 		},
 		{
 			"id": "Vilain example",
-			"name": "反派例子",
+			"occupation": "成為反派",
+			"age": "非常老",
+			"name": "反派範例",
 			"items": [
 				{
 					"_id": "MLzJUjOk8pGvbark",
@@ -2734,7 +2736,7 @@
 				{
 					"_id": "SZhoTtcwS9wOPXBU",
 					"flags": {},
-					"name": "測試武器",
+					"name": "測試用武器",
 					"type": "weapon",
 					"img": "icons/svg/mystery-man.svg",
 					"data": {
@@ -2809,7 +2811,11 @@
 					},
 					"sort": 100001
 				}
-			]
+			],
+			"infos": {
+				"sex": "",
+				"organization": ""
+			}
 		}
 	]
 }

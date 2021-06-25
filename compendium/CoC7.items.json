@@ -1,14 +1,14 @@
 {
-	"label": "創角示範",
+	"label": "創角範例(拉到空白角色卡上)",
 	"entries": [
 		{
 			"id": "1920's Setup Example",
-			"name": "1920 配置示範",
+			"name": "1920 設定範例",
 			"description": "<p>1920 角色的默認設置.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Archetype Example",
-			"name": "原型示範",
+			"name": "原型範例",
 			"description": null
 		},
 		{
@@ -23,12 +23,12 @@
 		},
 		{
 			"id": "Occupation Example",
-			"name": "職業示範",
+			"name": "職業範例",
 			"description": null
 		},
 		{
 			"id": "Punch",
-			"name": "毆打",
+			"name": "空手",
 			"description": ""
 		}
 	]

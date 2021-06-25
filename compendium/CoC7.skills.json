@@ -37,6 +37,11 @@
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{
+			"id": "Art/Craft",
+			"name": "藝術和手藝",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
 			"id": "Artillery",
 			"name": "炮術",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
@@ -152,6 +157,11 @@
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{
+			"id": "Fighting",
+			"name": "鬥毆",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
 			"id": "Fine Art",
 			"name": "美術",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
@@ -220,6 +230,11 @@
 			"id": "Jump",
 			"name": "跳躍",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Any",
+			"name": "任何",
+			"description": ""
 		},
 		{
 			"id": "Language (Any)",
@@ -372,23 +387,88 @@
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{
-			"id": "Rifle",
-			"name": "步槍",
+			"id": "Bark orders",
+			"name": "喊叫命令",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{
-			"id": "Rifle",
-			"name": "步槍",
+			"id": "Takeover the world",
+			"name": "征服世界",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{
-			"id": "Rifle",
-			"name": "步槍",
+			"id": "Torment the PC",
+			"name": "折磨PC",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{
-			"id": "Rifle",
-			"name": "步槍",
+			"id": "Plan to enslave humanity",
+			"name": "計劃如何奴役人類",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Very mean sidekick",
+			"name": "非常卑鄙的奴才",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Very old",
+			"name": "非常老",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "My test weapon",
+			"name": "測試用武器",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Slice PCs in small cubes",
+			"name": "將 PC 切成小塊",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Deadly claws",
+			"name": "將 PC 切成小塊",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Slice PCs in small cubes",
+			"name": "死亡之爪",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Innate attack",
+			"name": "天生武器",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Pile of junk",
+			"name": "一堆垃圾",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Club",
+			"name": "棍棒",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Orders",
+			"name": "命令",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Secret documents",
+			"name": "秘密文件",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Receive orders",
+			"name": "接收命令",
+			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
+		},
+		{
+			"id": "Try hard",
+			"name": "盡你所能",
 			"description": "<p>請參考克蘇魯的呼喚 - 7th Ed 核心規則書</p>"
 		},
 		{

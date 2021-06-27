@@ -30,6 +30,9 @@
 * *Babele* es un módulo de *Simone Ricciardi*.
 * 感謝 *Gorden* 重寫及翻譯了要求擲骰表
 
+## TODO
+* 中文版的角色卡教學
+
 ## 版本
 
 版本 0.6.1 :

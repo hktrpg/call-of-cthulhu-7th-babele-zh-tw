@@ -1,7 +1,7 @@
 {
   "name": "call-of-cthulhu-7th-babele-zh-tw",
   "title": "Call of Cthulhu 7th Babele 正體中文版",
-  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能，中文SETUP，COC專用MACRO等",
+  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能，中文NPC開角SETUP，COC專用MACRO等",
   "version": "1.3.61",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",

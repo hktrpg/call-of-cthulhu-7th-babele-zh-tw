@@ -35,6 +35,10 @@
 
 ## 版本
 
+版本 1.3.61 :
+
+* 新增中文的SETUP
+
 版本 0.6.1 :
 
 * 支援 HavlockV/CoC7-FoundryVTT 0.6.1

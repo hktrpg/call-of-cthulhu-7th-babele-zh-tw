@@ -1,8 +1,8 @@
 {
   "name": "call-of-cthulhu-7th-babele-zh-tw",
   "title": "Call of Cthulhu 7th Babele 正體中文版",
-  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能等",
-  "version": "1.2.61",
+  "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能，中文SETUP，COC專用MACRO等",
+  "version": "1.3.61",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
   "author": "Gorden, Sad",
@@ -36,6 +36,13 @@
       "entity": "Macro",
       "name": "Macro examples",
       "path": "./packs/macros.db",
+      "system": "CoC7"
+    },
+    {
+      "label": "Items Examples",
+      "entity": "Item",
+      "name": "items",
+      "path": "./packs/items_cht.db",
       "system": "CoC7"
     }
   ],

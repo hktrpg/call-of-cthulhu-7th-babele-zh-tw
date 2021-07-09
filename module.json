@@ -39,7 +39,7 @@
       "system": "CoC7"
     },
     {
-      "label": "Items Examples",
+      "label": "中文創角範例",
       "entity": "Item",
       "name": "items",
       "path": "./packs/items_cht.db",

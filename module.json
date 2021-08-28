@@ -57,5 +57,5 @@
   "systemVersion": "0.6.0",
   "url": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw",
   "manifest": "https://raw.githubusercontent.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/master/module.json",
-  "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/archive/master.zip"
+  "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/releases/latest/download/module.zip"
 }

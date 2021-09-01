@@ -1,3 +1,5 @@
+![Download](https://img.shields.io/github/downloads/hktrpg/call-of-cthulhu-7th-babele-zh-tw/total)
+
 # Call of Cthulhu 7th Babele 正體中文版
 
 ## 描述  

@@ -2,7 +2,7 @@
   "name": "call-of-cthulhu-7th-babele-zh-tw",
   "title": "Call of Cthulhu 7th Babele 正體中文版",
   "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能，中文NPC開角SETUP，COC專用MACRO等",
-  "version": "1.3.1.61",
+  "version": "1.3.1.64",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.9",
   "author": "Gorden, Sad",
@@ -20,7 +20,7 @@
     {
       "name": "CoC7",
       "type": "system",
-      "version": "0.6.1"
+      "version": "0.6.4"
     }
   ],
   "packs": [
@@ -46,15 +46,8 @@
       "system": "CoC7"
     }
   ],
-  "languages": [
-    {
-      "lang": "zh-TW",
-      "name": "正體中文",
-      "path": "lang/zh-tw.json"
-    }
-  ],
   "system": "CoC7",
-  "systemVersion": "0.6.0",
+  "systemVersion": "0.6.4",
   "url": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw",
   "manifest": "https://raw.githubusercontent.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/master/module.json",
   "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/releases/latest/download/module.zip"

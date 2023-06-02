@@ -2,53 +2,55 @@
   "name": "call-of-cthulhu-7th-babele-zh-tw",
   "title": "Call of Cthulhu 7th Babele 正體中文版",
   "description": "Call of Cthulhu 7th HavlockV/CoC7-FoundryVTT的正體中文版，包括範例角色卡，道具，技能，中文NPC開角SETUP，COC專用MACRO等",
-  "version": "1.3.1.64",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
-  "author": "Gorden, Sad, HKTRPG",
-  "esmodules": [
-    "babele-register.js"
+  "version": "1.4.0",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "11",
+  "authors": [
+    {
+      "name": "HKTRPG",
+      "url": "https://www.patreon.com/HKTRPG",
+      "discord": "zzz#8939"
+    }
   ],
-  "scripts": [],
-  "styles": [],
   "dependencies": [
     {
       "name": "babele",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "2.0.5"
-    },
-    {
-      "name": "CoC7",
-      "type": "system",
-      "version": "0.6.4"
+      "version": "2.4.0"
     }
   ],
   "packs": [
-    {
+      {
       "label": "中文範例角色卡 - 按右鍵導入",
-      "entity": "Actor",
+      "type": "Actor",
       "name": "examples",
       "path": "./packs/examples_cht.db",
       "system": "CoC7"
     },
     {
       "label": "中文Macros",
-      "entity": "Macro",
+      "type": "Macro",
       "name": "Macro examples",
       "path": "./packs/macros.db",
       "system": "CoC7"
     },
     {
       "label": "中文創角範例",
-      "entity": "Item",
+      "type": "Item",
       "name": "items",
       "path": "./packs/items_cht.db",
       "system": "CoC7"
     }
   ],
-  "system": "CoC7",
-  "systemVersion": "0.6.4",
+  "conflicts": [],
+  "esmodules": [],
+  "scripts": [],
+  "styles": [],
+  "languages": [],
   "url": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw",
   "manifest": "https://raw.githubusercontent.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/master/module.json",
-  "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/releases/latest/download/module.zip"
+  "download": "https://github.com/hktrpg/call-of-cthulhu-7th-babele-zh-tw/releases/latest/download/module.zip",
+  "readme": "README.md"
 }
